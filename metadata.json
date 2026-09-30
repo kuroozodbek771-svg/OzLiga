@@ -1,0 +1,6 @@
+{
+  "name": "O'zLeague — Futbol Ligalarini Boshqarish Platformasi",
+  "description": "O'zbekistondagi mahalliy futbol ligalari, jamoalar, o'yinlar, jonli hisoblar va turnir jadvallarini boshqarish uchun zamonaviy platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
